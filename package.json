@@ -1,0 +1,23 @@
+{
+	"name": "js-design-patterns",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --watch"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shwetasroti/js-design-patterns.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/shwetasroti/js-design-patterns.git"
+	},
+	"homepage": "https://github.com/shwetasroti/js-design-patterns.git",
+	"devDependencies": {
+		"jest": "^22.4.3"
+	}
+}
